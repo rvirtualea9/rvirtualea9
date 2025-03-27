@@ -1,7 +1,7 @@
 # 👋 你好
 
 <div align="center">
-  <img src="https://img.picui.cn/free/2025/03/27/67e553c284f27.png" alt="个人形象" style="border-radius:10px;"/>
+  <img src="https://img.picui.cn/free/2025/03/27/67e554ea310dd.png" alt="个人形象" style="border-radius:10px;"/>
 </div>
 
 ## 🎓 关于我
